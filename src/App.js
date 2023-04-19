@@ -1,5 +1,4 @@
 import React from 'react'
-import Counter from './pages/Counter'
 
 
 const App = () => {
@@ -7,7 +6,7 @@ const App = () => {
 
   return (
     <div>
-      <Counter />
+      <h1>Home page</h1>
     </div >
   )
 }
