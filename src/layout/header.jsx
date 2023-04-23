@@ -16,10 +16,16 @@ const navItems = [
     url: '/'
   },
   {
-    id: 1,
+    id: 2,
     name: 'Counter',
     url: '/counter'
-  }
+  },
+  {
+    id: 3,
+    name: 'Todos',
+    url: '/todos'
+  },
+
 ]
 
 const Header = () => {

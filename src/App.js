@@ -1,13 +1,12 @@
 import React from 'react'
+import Counter from './fetaures/counts/Counter'
 
 
 const App = () => {
-
-
   return (
-    <div>
-      <h1>Home page</h1>
-    </div >
+    <>
+      <Counter />
+    </ >
   )
 }
 
